@@ -1,4 +1,4 @@
-# Jav APK integrity checker / app comparator
+# Java APK integrity checker / app comparator
 
 The aim is to check mutliple APK files in order to know if they refer to the same official Android app
 
@@ -13,13 +13,13 @@ java -jar apkChecker.jar -l <apks> <options>
 
 <table>
 	<tr>
-		<td>`l / -list`</td><td>list of jars with separated with empty space(s)</td>
+		<td>-l / -list</td><td>list of jars with separated with empty space(s)</td>
 	</tr>
 	<tr>
-		<td>`-v / -verify`</td><td>verify java archive</td>
+		<td>-v / -verify</td><td>verify java archive</td>
 	</tr>
 	<tr>
-		<td>`-c / -comparePubkey`</td><td>compare public keys of jars</td>
+		<td>-c / -comparePubkey</td><td>compare public keys of jars</td>
 	</tr>
 </table>
 

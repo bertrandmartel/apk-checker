@@ -36,3 +36,6 @@ Exemple : ``java -jar ./apkchecker-1.0.jar -l ~/test/app-debug.apk ~/test/app-de
 * rewrite of JarSigner by Sun Microsystems under GNU License
 * android-sun-jarsign-support-1.1.jar for JarSigner dependencies (NetscapeCertTypeExtension)
 * sun.misc.BASE64Decoder.jar for Base64
+
+<i>JDK 1.7</i>
+<i>Eclipse</i>

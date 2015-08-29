@@ -33,7 +33,7 @@ Exemple : ``java -jar ./apkchecker-1.0.jar -l ~/test/app-debug.apk ~/test/app-de
 
 <b>Library used</b>
 
-* rewrite of JarSigner by Sun Microsystems under GNU License
+* rewrite of JarSigner by Sun Microsystems under GPLv2 License
 * android-sun-jarsign-support-1.1.jar for JarSigner dependencies (NetscapeCertTypeExtension)
 * sun.misc.BASE64Decoder.jar for Base64
 

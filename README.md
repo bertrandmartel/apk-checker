@@ -27,9 +27,9 @@ Exemple : ``java -jar ./apkchecker-1.0.jar -l ~/test/app-debug.apk ~/test/app-de
 
 <b>Output Exemples</b>
 
-![exemple_success](https://raw.github.com/akinaru/apk-checker/master/success.png)
+![exemple_success](https://raw.github.com/bertrandmartel/apk-checker/master/success.png)
 
-![exemple_failure](https://raw.github.com/akinaru/apk-checker/master/failure.png)
+![exemple_failure](https://raw.github.com/bertrandmartel/apk-checker/master/failure.png)
 
 <b>Library used</b>
 
